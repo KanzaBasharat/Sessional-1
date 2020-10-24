@@ -86,8 +86,7 @@ body{
 }
 #topmenu{
     float: left;
-    
-    
+      
 
 }
 #topmenu li{
@@ -173,4 +172,24 @@ margin-left:20px;
 #k{
     text-align: left;
     padding-top: 30px;
+}
+.y{
+   position:absolute;
+    bottom: 20px;
+    left: 16px;
+    color:white;
+    font-size: 30px;
+    padding-top: 10%;
+    margin-top: 0;
+    padding-left: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+ 
+}
+#h{
+    width: 60%;
+    float: left;
+    padding: 25px;
+    text-align: justify;
+    
 }
