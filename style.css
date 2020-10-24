@@ -201,6 +201,25 @@ background-color: grey;
     color: white;
     font-weight: bold;
 }
+#reel{
+    background-image: url(reel.jpg);
+    height: 500px;
+}
+#r{
+    color: white;
+    font-size: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#k{
+    color: white;
+    font-size:20px ;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+#c{
+    font-size: 17px;
+}
   
   
   
