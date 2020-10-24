@@ -193,3 +193,22 @@ margin-left:20px;
     text-align: justify;
     
 }
+.flex-container {
+    display: flex;
+    height: 200px;
+    justify-content: space-around;
+  
+  }
+  
+  .flex-container > div {
+    width:400px;
+    margin: 10px;
+    line-height: 75px;
+  }
+  #newss
+  {
+  border-left: 2px solid red;
+  margin-left: 30px;
+  padding:10px;
+  }
+  
