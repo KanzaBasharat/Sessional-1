@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family:  Arial,Helvetica,sans-serif;
+   
+}
+#topbar{
+    background-color: black;
+    width: 100%;
+    height: 37px;
+}
+#logodiv{
+    margin-left: 25px;
+    padding-top: 3px;
+    float: left;
+    border-right: 1px solid grey;
+     height: 37px;
+     padding-right: 3px;
+     
+}
+#signindiv{
+    text-align: left;
+    color:white;
+    padding-left: 5px;
+    border-right: 1px solid grey;
+     height: 37px;
+     padding: 0;
+     font-size: 0.8em;
+     font-weight: bolder;
+     float: left;
+     padding-right: 80px;
+     margin-top: 0.5px;
+   
+     
+}
+#a{
+    padding-top: 12px;
+    padding-left: 15px;
+    padding-right: 7px;
+    font-size: 18px;
+    
+    
+    
+}
+#topmenu{
+    float: left;
+    
+    
+
+}
+#topmenu li{
+    list-style: none;
+    font-weight: bold;
+   color: white;
+   font-size: 0.8em;
+   border-right: 1px solid grey;
+   height:37px;
+  padding: 10px 20px 10px 20px;
+  padding-top: 8px;
+  float: left;
+   
+
+}
+#topmenu ul{
+    padding: 0;
+    margin: 0;
+   
+   
+}
+#searchdiv{
+    float: left;
+    padding: 6px 0 0 10px;
+    border: none;
+}
+#searchdiv input{
+    height:23px;
+    width: 170px;
+
+}
+
